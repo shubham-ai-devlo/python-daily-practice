@@ -1,2 +1,10 @@
 # python-daily-practice
-Python Developer | Excel Automation | Learning Ai &amp; ML Building real-world projects and improving daily.
+This repository contains my daily python practice focused on:
+
+✅Python fundamentals
+✅Excel automation using Python
+✅Data analysis
+✅Learning AI & Machine Learning
+
+I am building real-world projects and improving daily through consistent 
+practice.
