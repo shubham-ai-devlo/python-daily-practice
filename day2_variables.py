@@ -1,0 +1,7 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+learning = input("What are you learning: ")
+print()
+print("Name:",name)
+print("Age:",age)
+print("Learning:",learning)
